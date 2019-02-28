@@ -34,7 +34,7 @@ mybatis-plus:
      
 ---  
 server:
-  port: 8000
+  port: 8005
   servlet:
     context-path: /
 spring:
